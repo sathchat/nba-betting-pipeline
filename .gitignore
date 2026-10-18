@@ -218,3 +218,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# NBA pipeline datasets
+data/
+
+# DuckDB database files
+*.duckdb
+*.duckdb.wal
+
+# Large data files
+*.parquet
